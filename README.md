@@ -6,9 +6,10 @@
 - https://www.lowleveldesignmastery.com/
 - https://refactoring.guru/design-patterns
 - https://java-design-patterns.com/patterns/
-- https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
+- https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles ⭐️
 - https://www.designgurus.io/course/grokking-the-object-oriented-design-interview ⭐️
 - https://refactoring.guru/ ⭐️
+- https://interviewready.io/course-page/low-level-design-course (Gaurav Sen course)
 - Youtube: Gaurav Sen
 - Youtube: SudoCode
 - Youtube: InterviewReady (Mehdi)
