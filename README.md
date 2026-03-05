@@ -8,7 +8,7 @@
 - https://java-design-patterns.com/patterns/
 - https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
 - https://www.designgurus.io/course/grokking-the-object-oriented-design-interview ⭐️
-- https://refactoring.guru/
+- https://refactoring.guru/ ⭐️
 - Youtube: Gaurav Sen
 - Youtube: SudoCode
 - Youtube: InterviewReady (Mehdi)
